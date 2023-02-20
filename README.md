@@ -35,3 +35,4 @@
    [Репа с кодом](https://github.com/SethHWeidman/DLFS_code)
 - [Чистый Python](https://realpython.com/products/python-tricks-book/)
 - [A Byte of Python](https://python.swaroopch.com/)
+- Чистый Код
